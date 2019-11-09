@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumLockIndicator", "NumLockIndicator\NumLockIndicator.csproj", "{D3445DDE-D961-48B6-A804-E3554B740D2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NumLockIndicatorSetup", "NumLockIndicatorSetup\NumLockIndicatorSetup.vdproj", "{A11F49A7-6558-4A28-A961-52A48DE15EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3445DDE-D961-48B6-A804-E3554B740D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3445DDE-D961-48B6-A804-E3554B740D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3445DDE-D961-48B6-A804-E3554B740D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3445DDE-D961-48B6-A804-E3554B740D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11F49A7-6558-4A28-A961-52A48DE15EF1}.Debug|Any CPU.ActiveCfg = Debug
+		{A11F49A7-6558-4A28-A961-52A48DE15EF1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
