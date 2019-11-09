@@ -1,0 +1,10 @@
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\NumLockIndicator.exe.config
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\Num_Active.ico
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\Num_Icon.ico
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\Num_Idle.ico
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\NumLockIndicator.exe
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Release\NumLockIndicator.pdb
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Release\NumLockIndicator.Properties.Resources.resources
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Release\NumLockIndicator.csproj.GenerateResource.Cache
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Release\NumLockIndicator.exe
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Release\NumLockIndicator.pdb

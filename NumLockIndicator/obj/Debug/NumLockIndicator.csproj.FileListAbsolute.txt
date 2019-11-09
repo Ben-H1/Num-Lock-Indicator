@@ -1,0 +1,10 @@
+c:\users\bened\documents\visual studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\NumLockIndicator.exe.config
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\NumLockIndicator.exe
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\NumLockIndicator.pdb
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Debug\NumLockIndicator.Properties.Resources.resources
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Debug\NumLockIndicator.csproj.GenerateResource.Cache
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Debug\NumLockIndicator.exe
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\obj\Debug\NumLockIndicator.pdb
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\Num_Active.ico
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\Num_Icon.ico
+C:\Users\bened\Documents\Visual Studio 2015\Projects\NumLockIndicator\NumLockIndicator\bin\Debug\Num_Idle.ico
